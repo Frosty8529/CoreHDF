@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'The end is where we begin!'
+    return 'The end is where we begin'
